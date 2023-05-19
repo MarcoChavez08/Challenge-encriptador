@@ -38,7 +38,7 @@ main{
     margin-left: 98px;
     margin-top: 20px;
     padding-left: 20px;
-    position: fixed;
+    position: relative;
 }
 .mensaje:focus{
     outline: none;
@@ -77,7 +77,7 @@ main{
     height: 67px;
     margin-left: 108px;
     margin-top: 402px;
-    position: fixed;
+    position: relative;
     width:336px;
 }
 
