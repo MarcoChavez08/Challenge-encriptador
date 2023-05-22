@@ -1,5 +1,5 @@
 *{
-    background-image: url(Imagenes/background2.jpg) ;
+    background:#d5dcf5 ;
     font-family: 'Inter';
     font-weight: 400;
     font-size: 32px;
@@ -15,7 +15,7 @@
 main{
     display: flex;
     margin-bottom: 50px;
-    margin-left: 80px;x
+    margin-left: 80px;
 }
 .text-area{
     border:none;
