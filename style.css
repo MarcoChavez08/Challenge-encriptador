@@ -97,6 +97,11 @@ main{
 }
 .red-social{
     
-    width: 30px;
-    height: 30px;
+    width: 200px;
+    height: 100px;
 }
+
+.redesSociales a:not(:last-child){
+    margin-right: 10px;
+}
+
