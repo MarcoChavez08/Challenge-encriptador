@@ -90,11 +90,13 @@ main{
 }
 
 
-
-.red-social{
+.redesSociales{
     display: flex;
     justify-content: center;
     align-items: center;
+}
+.red-social{
+    
     width: 30px;
     height: 30px;
 }
