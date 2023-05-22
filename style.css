@@ -89,7 +89,11 @@ main{
     font-style: oblique;
 }
 
-.red-social{
+.redesSociales{
+    padding-top: 15px;
+}
+
+.red-social img{
     width: 40px;
     height:40px;
 }
