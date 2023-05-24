@@ -65,7 +65,10 @@ main{
     margin-left: 30px;
     width: 328px;
 }
-
+.btn-desencriptar:hover{
+    background-color: white;
+    color: black;
+}
 .btn-encriptar{
     background-color: #0A3871;
     border: 1px solid #0A3871;
@@ -75,7 +78,10 @@ main{
     height: 67px;
     width: 328px;
 }
-
+.btn-encriptar:hover{
+    background-color: white;
+    color: black;
+}
 .copiar{
     border: 1px solid #0A3871;
     background-color: #0A3871;
@@ -87,6 +93,11 @@ main{
     margin-top: 235px;
     
     width:336px;
+}
+
+.copiar:hover{
+    background-color: white;
+    color: black;  
 }
 
 
